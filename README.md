@@ -2,7 +2,7 @@
 
 # Hey, there! <img src="./wave.gif" width="30px">
 
-My name is Boidushya Bhattacharyay and I'm a Fullstack Web Developer. I'm from India, currently studying at MUJ. You can currently find me on [Instagram][1]!
+My name is Boidushya Bhattacharyay and I'm a Fullstack Web Developer. I'm from India, currently studying at MUJ. You can find me on [Instagram][1]!
 
 
 
