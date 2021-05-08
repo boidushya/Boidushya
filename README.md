@@ -21,12 +21,15 @@ My name is Boidushya Bhattacharyay and I'm a Fullstack Web Developer. I'm from I
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x269B; Language Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/boidushya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boidushya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/boidushya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=boidushya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
