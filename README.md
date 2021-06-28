@@ -1,5 +1,5 @@
 <a href="https://boidushya.github.io/">
-  <img style="border-radius:50px" src="./header.png" alt="Header"/>
+  <img src="./header.png" alt="Header"/>
 </a>
 
 # Hey, there! <img src="./wave.gif" width="30px">
@@ -7,11 +7,8 @@
 <p align="center">
   I'm Boidushya and I love to code weird stuff.
   <br /> 
-  Apart from being an infomaniac, I'm also the most boring person you'll ever know, who could've guessed! <i><b>(/s)</b></i>
-  <br /> 
   <a href="https://www.youtube.com/watch?v=qE0UimODxNg">The conquest of nature is to be achieved through number and measure</a>
   <br />
-  You can find me on <a href="https://instagram.com/boidushya">Instagram</a> or <a href="https://www.linkedin.com/in/boidushya/">LinkedIn</a>!
 </p>
 
 
@@ -79,9 +76,25 @@
 
 ## &#128202; Contribution Stats
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="boidushya's streak" src="http://github-readme-streak-stats.herokuapp.com?user=boidushya&theme=react&hide_border=true"/>
-  
+  <img alt="Boidushya's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=boidushya&theme=react&hide_border=true"/>
 </p>
+
+## 📱 Socials
+<p align="center">
+	<a href="https://instagram.com/boidushya">
+		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
+	</a>
+	<a href="https://www.linkedin.com/in/boidushya/">
+		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
+	</a>
+	<a href="https://www.reddit.com/u/boidushya/">
+		<img src="https://img.shields.io/badge/Reddit-informational?style=social&logo=reddit"/>
+	</a>
+	<a href="https://www.github.com/boidushya/">
+		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
+	</a>
+</p>
+
 
 
 <!-- links to your social media accounts -->
