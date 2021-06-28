@@ -12,6 +12,12 @@
   You can find me on <a href="https://instagram.com/boidushya">Instagram</a> or <a href="https://www.linkedin.com/in/boidushya/">LinkedIn</a>!
 </p>
 
+
+## &#x1f4c8; Contribution Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=boidushya&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
 ## 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -73,11 +79,6 @@
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="boidushya's streak" src="http://github-readme-streak-stats.herokuapp.com?user=boidushya&theme=react&hide_border=true"/>
   
-</p>
-
-## &#x1f4c8; Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=boidushya&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 
