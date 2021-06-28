@@ -1,4 +1,6 @@
-[![Header](./header.png "Header")](https://boidushya.github.io/)
+<a href="https://boidushya.github.io/">
+  <img style="border-radius:50px" src="./header.png" alt="Header"/>
+</a>
 
 # Hey, there! <img src="./wave.gif" width="30px">
 
