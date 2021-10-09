@@ -87,9 +87,6 @@
 	<a href="https://www.linkedin.com/in/boidushya/">
 		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
 	</a>
-	<a href="https://www.reddit.com/u/boidushya/">
-		<img src="https://img.shields.io/badge/Reddit-informational?style=social&logo=reddit"/>
-	</a>
 	<a href="https://www.github.com/boidushya/">
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
