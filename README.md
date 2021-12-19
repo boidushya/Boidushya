@@ -5,7 +5,7 @@
 # Hey, there! <img src="./wave.gif" width="30px">
 
 <p align="center">
-  I'm Boidushya and I love to code weird stuff.
+  I'm Boidushya and I love to innovate through programming.
   <br /> 
   <a href="https://www.youtube.com/watch?v=qE0UimODxNg">The conquest of nature is to be achieved through number and measure</a>
   <br />
