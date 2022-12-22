@@ -14,7 +14,7 @@
 
 ## &#x1f4c8; Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=boidushya&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=boidushya&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
 
 ## 🔧 Technologies & Tools
