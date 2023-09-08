@@ -1,100 +1,11 @@
-<a href="https://boidushya.github.io/">
-  <img src="./header.png" alt="Header"/>
-</a>
-
-# Hey, there! <img src="./wave.gif" width="30px">
-
-<p align="center">
-  Programming through poiesis.
-  <br /> 
-  <a href="https://www.youtube.com/watch?v=qE0UimODxNg">The conquest of nature is to be achieved through number and measure</a>
-  <br />
-</p>
+### Hey, there! <img src="./wave.gif" width="20px">
 
 
-## &#x1f4c8; Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=boidushya&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
+#### [The conquest of nature is to be achieved through number and measure](https://www.youtube.com/watch?v=qE0UimODxNg)
 
-## 🔧 Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-Chromium-informational?style=flat&logo=Google-Chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-
-
-## &#x269B; Language Stats
-<p align="center">
-  <a align="center" href="https://github.com/boidushya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boidushya&theme=react&hide_border=true" />
-  </a>
-</p>
-
-## &#x1F680; GitHub Stats
-<p align="center">
-  <a align="center" href="https://github.com/boidushya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=boidushya&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Boidushya's GitHub Stats" />
-  </a>
- </p>
-
-## &#128202; Contribution Stats
-<p align="center">
-  <img alt="Boidushya's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=boidushya&theme=react&hide_border=true"/>
-</p>
-
-## 📱 Socials
-<p align="center">
-	<a href="https://instagram.com/boidushya">
-		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
-	</a>
-	<a href="https://www.linkedin.com/in/boidushya/">
-		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
-	</a>
-	<a href="https://www.github.com/boidushya/">
-		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
-	</a>
-</p>
-
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://instagram.com/boidushya
-[2]: https://github.com/boidushya
-[3]: https://linkedin.com/boidushya
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+🥑 Developer Relations Engineer at [WalletConnect](https://walletconnect.com);<br>
+🎪 Core Team/Organizer of [Web3Conf India](https://web3confindia.xyz);<br>
+📫 Reach me at [twitter.com/boidushya](https://twitter.com/boidushya);<br>
+💬 Ping me about **Design**, **Frontend**, **React**, **UI/UX**, **Web3**;<br>
+💅 Some of my works [eip6963.org](https://www.eip6963.org),[WalletConnect v2 Migration Labs](https://v2-migration-lab.walletconnect.com), [WalletConnect Docs](https://docs.walletconnect.com),[Web3Conf India](https://web3confindia.xyz), [Portfolio](https://www.boidushya.com), [This Website is Dope](https://dope.boidushya.com), [Sqwid](https://sqwid.app);<br>
+🌄 (Not so) Fun fact: I could talk for hours about **Better Call Saul** & **Breaking Bad**;
