@@ -1,6 +1,5 @@
 ### Hey, there! <img src="./wave.gif" width="20px">
 
-
 #### [The conquest of nature is to be achieved through number and measure](https://www.youtube.com/watch?v=qE0UimODxNg)
 
 🥑 Developer Relations Engineer at [WalletConnect](https://walletconnect.com);<br>
